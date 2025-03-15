@@ -48,7 +48,9 @@
 - MERN Stack
 
 ### 📱 Mobile Development
-- Android Studio (Java)
+<p>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> 
+</p> 
 
 ### 📚 Bundlers & Platforms
 <p>
