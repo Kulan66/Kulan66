@@ -51,7 +51,9 @@
 - Android Studio (Java)
 
 ### 📚 Bundlers & Platforms
-- Vite
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
 ### 🗄️ Database
 <p>
