@@ -32,6 +32,7 @@
 
 ### ⚙️ Back End
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -62,8 +63,9 @@
 
 ## 📫 Connect with Me
 <p>
-  <a href="www.linkedin.com/in/kulan-thamuditha-6b17672a7"><img src="https://img.shields.io/badge/GitHub-Kulan66-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Kulan66"><img src="https://img.shields.io/badge/GitHub-Kulan66-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:kulanthamuditha66@gmail.com"><img src="https://img.shields.io/badge/Gmail-kulanthamuditha66@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/kulan-thamuditha-6b17672a7"><img src="https://img.shields.io/badge/LinkedIn-Kulan66-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
