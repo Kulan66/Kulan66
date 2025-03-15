@@ -1,17 +1,17 @@
 # Hey there! I'm Kulan66
 
-👨🏻‍💻  About Me
+👨🏻‍💻 **About Me**
 
-- 🤔   investigating novel technologies and creating software fixes and fast fixes.
-- 🎓   Studying Computer Science at University Of Cardiff metropolitan UK.
-- 💼   Working as a software engineer intern.
-- 🌱   Learning more about Cloud Architecture and API Testing & Working.
-- 💫   Investigating the smooth integration of front-end and back-end developers, designers, and users.
-- ✍️   Pursuing YouTube and music as pastimes and side projects.
+- 🤔 Investigating novel technologies and creating software fixes and fast fixes.
+- 🎓 Studying Computer Science at University Of Cardiff Metropolitan UK.
+- 💼 Working as a software engineer intern.
+- 🌱 Learning more about Cloud Architecture and API Testing & Working.
+- 💫 Investigating the smooth integration of front-end and back-end developers, designers, and users.
+- ✍️ Pursuing YouTube and music as pastimes and side projects.
 
-🛠  Tech Stack
+🛠 **Tech Stack**
 
-**💻  Front End**
+**💻 Front End**
 - TypeScript
 - JavaScript
 - React
@@ -20,23 +20,22 @@
 - HTML
 - CSS
 
-**⚙️  Back End**
+**⚙️ Back End**
 - TypeScript
 - NodeJS
 - Express.js
 - Python
 - APIs
-- JAVA
+- Java
 - PHP
 - C#
 - C++
-  
 
-**💫  Fullstack**
+**💫 Fullstack**
 - MERN stack
 
-**📱  Mobile Dev**
-- Android studio(JAVA)
+**📱 Mobile Development**
+- Android Studio (Java)
 
 **📚 Bundlers & Platforms**
 - Vite
@@ -46,7 +45,7 @@
 - SQL
 
 ## Connect with Me
-- LinkedIn: https://github.com/Kulan66
-- Email: kulanthamuditha66@gmail.com
+- LinkedIn: [Kulan66](https://github.com/Kulan66)
+- Email: [kulanthamuditha66@gmail.com](mailto:kulanthamuditha66@gmail.com)
 
 ⭐️ From Kulan66
