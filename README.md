@@ -75,7 +75,7 @@
 <p>
   <a href="https://github.com/Kulan66"><img src="https://img.shields.io/badge/GitHub-Kulan66-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:kulanthamuditha66@gmail.com"><img src="https://img.shields.io/badge/Gmail-kulanthamuditha66@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/kulan-thamuditha-6b17672a7"><img src="https://img.shields.io/badge/LinkedIn-Kulan66-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kulan-thamuditha-6b17672a7"><img src="https://img.shields.io/badge/LinkedIn-Kulan66-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
