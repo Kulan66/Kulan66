@@ -61,6 +61,7 @@
 ### 📚 Bundlers & Platforms
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-Server-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
 
 ### 🗄️ Database
